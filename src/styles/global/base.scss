@@ -1,0 +1,26 @@
+body {
+    font-family: $ff-main;
+    font-size: 1rem;
+    line-height: 1.2;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+html {
+    box-sizing: border-box;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+.clearfix {
+
+    &:after {
+        content: '';
+        display: table;
+        clear: both;
+    }
+}
