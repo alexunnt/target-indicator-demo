@@ -1,6 +1,6 @@
 <div align="center">
   <h1>target-indicator</h1>
-   <a href="target-indicator-demo.surge.sh">watch indicator</a>
+   <a href="http://target-indicator-demo.surge.sh/">watch indicator</a>
 </div>
 
 ## Usage
